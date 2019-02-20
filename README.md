@@ -1,11 +1,8 @@
-# Forecasting_Of_Real_Estate_Price
-# Предсказание цен на недвижимость
+# Forecasting_Of_Real_Estate_Price - Предсказание цен на недвижимость
 
 Курсовой проект для курса "Python для Data Science"
 
-Материалы к проекту (файлы):
-train.csv
-test.csv
+Материалы к проекту (файлы): train.csv, test.csv
 
 Задание:
 Используя данные из train.csv, построить модель для предсказания цен на недвижимость (квартиры).

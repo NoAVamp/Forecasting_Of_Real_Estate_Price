@@ -1,4 +1,4 @@
-# Forecasting_Of_Real_Estate_Price - Предсказание цен на недвижимость
+# Forecasting Of Real Estate Price
 
 Курсовой проект для курса "Python для Data Science"
 
